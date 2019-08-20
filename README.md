@@ -5,6 +5,7 @@ I was provided with historical sales data for 1,115 Rossmann stores. The task is
 This repo includes exploratory analysis and predictive modeling.
 
 **OBJECTIVE**
+
 Forecast Sales in Rossmann stores using historical data.
 
 **METHODOLOGY**
