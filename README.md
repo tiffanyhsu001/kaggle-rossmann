@@ -14,6 +14,8 @@ Forecast Sales in Rossmann stores using historical data.
     - Train Test Split: for validation purposes and check success of the model
     - Random Forest Model: chosen for its speed, robustness against outliers & overfitting
     - Extreme Gradient Boosting Model: chosen for its strong large tree scale boosting ability
+- Validation Metrics:
+    - RMSPE
 
 **CONCLUSION**
 
