@@ -15,5 +15,6 @@ Forecast Sales in Rossmann stores using historical data.
     - Extreme Gradient Boosting Model: chosen for its strong large tree scale boosting ability
 
 **CONCLUSION**
+
 My XGB model performed slightly better than my random forest model. However, due to XGB's much longer performance, I would recommend running a random forest model since they had relatively similar scores. Further improvements to the models would include hyperparameter tuning, as I only extracted variables based off feature importances.
   
